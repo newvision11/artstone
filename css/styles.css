@@ -5956,7 +5956,7 @@ ul.pagination li:last-child {
 /* 09. GALLERY PAGE */
 /***********************************************************************************************/
 .section-gallery-bg {
-  background-image: url("../images/gallery_bg.jpg");
+  background-image: url("../images/gallery-background.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -6165,7 +6165,7 @@ ul.pagination li:last-child {
 /* 09. PORTFOLIO PAGE */
 /***********************************************************************************************/
 .section-portfolio-bg {
-  background-image: url("../images/gallery_bg.jpg");
+  background-image: url("../images/back-gallery.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
