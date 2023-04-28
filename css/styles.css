@@ -140,6 +140,9 @@ nav,
 section {
   display: block;
 }
+*{
+  scroll-behavior: smooth;
+  }
 blockquote,
 q {
   quotes: none;
